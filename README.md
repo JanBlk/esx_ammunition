@@ -1,5 +1,5 @@
 # esx_ammunition
-This is aimple script with which you can buy ammunition at configurable shops.
+This is a simple script with which you can buy ammunition at configurable shops.
 
 Installation:
 
