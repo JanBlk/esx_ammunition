@@ -9,18 +9,18 @@ Config.Locations = {
 	['Ammunation'] = {
         coords = vector3(20.1932, -1106.314, 29.79703),
         job = false,
-	markerColor = vector3(0, 0, 255),
-	markerType = 20,
-	markerDensity = 75,
-	markerSize = vector3(1.0, 1.0, 1.0),
+		markerColor = vector3(0, 0, 255),
+		markerType = 20,
+		markerDensity = 75,
+		markerSize = vector3(1.0, 1.0, 1.0),
     },
 	['Police'] = {
         coords = vector3(452.0893, -980.1588, 30.68932),
         job = 'police',
-	markerColor = vector3(0, 0, 255),
-	markerType = 20,
-	markerDensity = 75,
-	markerSize = vector3(1.0, 1.0, 1.0),
+		markerColor = vector3(0, 0, 255),
+		markerType = 20,
+		markerDensity = 75,
+		markerSize = vector3(1.0, 1.0, 1.0),
     },
 }
 
