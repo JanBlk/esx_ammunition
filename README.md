@@ -12,3 +12,8 @@ Installation:
 Comments: 
 
 This script isn't finished yet and has to be developed more in the future.
+
+Required Scripts:
+
+- es_extended
+- esx_menu_dialog
