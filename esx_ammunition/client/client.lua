@@ -104,22 +104,3 @@ HasPedTheRightWeapon = function()
 	end
 	return hasWeapon
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
